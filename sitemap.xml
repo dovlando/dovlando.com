@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+      <loc>https://dovlando.com/</loc>
+      <lastmod>2019-08-12</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>1</priority>
+</url>
+<url>
+      <loc>https://dovlando.com/about.html</loc>
+      <lastmod>2019-08-12</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>1</priority>
+</url>
+<url>
+      <loc>https://dovlando.com/resume.html</loc>
+      <lastmod>2019-08-12</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>1</priority>
+</url>
+<url>
+      <loc>https://dovlando.com/law-review-article.html</loc>
+      <lastmod>2019-08-12</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>1</priority>
+</url>
+<url>
+      <loc>https://dovlando.com/speaking.html</loc>
+      <lastmod>2019-08-12</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>1</priority>
+</url>
+<url>
+      <loc>https://dovlando.com/dov-lando-resume.pdf</loc>
+      <lastmod>2019-06-14</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>1</priority>
+</url>
+</urlset>
